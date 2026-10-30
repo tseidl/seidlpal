@@ -1,0 +1,25 @@
+Package: seidlpal
+Title: Colour-Blind-Safe Palettes and 'ggplot2' Scales
+Version: 0.1.0
+Authors@R: person("Timo", "Seidl", email = "timo.seidl@outlook.com", role = c("aut", "cre"))
+Description: An eight-colour categorical palette checked for colour-vision
+    deficiency, matching sequential and diverging scales with shared lightness
+    steps, light tints for diagram fills, and 'ggplot2' scale functions.
+URL: https://github.com/tseidl/seidlpal
+BugReports: https://github.com/tseidl/seidlpal/issues
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports:
+    colorspace,
+    ggplot2 (>= 3.5.0),
+    graphics,
+    methods,
+    scales,
+    stats,
+    utils
+Suggests:
+    farver,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.3

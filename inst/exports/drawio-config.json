@@ -1,0 +1,13 @@
+{
+  "customPresetColors": ["3D649E", "E8772E", "1E452F", "029581", "982F5D", "E8CB48", "DF97AA", "A1CCF1", "A5A6A8"],
+  "customColorSchemes": [[
+    {"fill": "#DAE2F7", "stroke": "#3D649E", "font": "#2A2A26"},
+    {"fill": "#F7DDD6", "stroke": "#E8772E", "font": "#2A2A26"},
+    {"fill": "#D3E8D2", "stroke": "#1E452F", "font": "#2A2A26"},
+    {"fill": "#C7EAE3", "stroke": "#029581", "font": "#2A2A26"},
+    {"fill": "#F8DBE9", "stroke": "#982F5D", "font": "#2A2A26"},
+    {"fill": "#EAE2CD", "stroke": "#E8CB48", "font": "#2A2A26"},
+    {"fill": "#F9DCDC", "stroke": "#DF97AA", "font": "#2A2A26"},
+    {"fill": "#D4E4F5", "stroke": "#A1CCF1", "font": "#2A2A26"}
+  ]]
+}
